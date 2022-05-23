@@ -62,5 +62,6 @@ const checkWOG = async() => {
     setTimeout(checkWOG, INTERVAL);
 }
 
+notifier.notify('Monitoring started!');
 checkUPG();
 checkWOG();
