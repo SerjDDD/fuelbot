@@ -1,0 +1,24 @@
+{
+  "name": "fuelbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerjDDD/fuelbot.git"
+  },
+  "author": "SerjDDD",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SerjDDD/fuelbot/issues"
+  },
+  "homepage": "https://github.com/SerjDDD/fuelbot#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-notifier": "^10.0.1",
+    "telegraf": "^4.8.2"
+  }
+}
